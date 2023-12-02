@@ -1,0 +1,8 @@
+[Default Applications]
+application/vnd.appimage=org.codeberg.dnkl.foot.desktop
+inode/symlink=org.codeberg.dnkl.foot.desktop
+
+[Added Associations]
+application/vnd.appimage=org.codeberg.dnkl.foot.desktop;
+inode/symlink=org.codeberg.dnkl.foot.desktop;
+text/plain=org.xfce.mousepad.desktop;
